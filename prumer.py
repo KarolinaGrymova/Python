@@ -5,4 +5,4 @@ def prumer(seznam):
     soucet=soucet+i
   print(soucet/len(seznam))
 
-prrumer(sys.argv[:1])
+prumer(sys.argv[:1])
