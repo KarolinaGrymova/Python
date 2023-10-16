@@ -6,3 +6,4 @@ def prumer(seznam):
   print(soucet/len(seznam))
 
 prumer(sys.argv[:1])
+#upravuji
