@@ -1,9 +1,8 @@
-import sys
-def prumer(seznam):
-  souccet=0
-  for i in seznam
-    soucet=soucet+i
-  print(soucet/len(seznam))
+def prumer (seznam : list)-> float:
+    soucet=0
+    for i in seznam:
+        soucet=soucet+i
+    vysledek=soucet/len(seznam)
+    return vysledek 
 
-prumer(sys.argv[:1])
-#upravuji
+print(prumer([1,2,3]))
