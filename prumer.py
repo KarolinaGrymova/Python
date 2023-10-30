@@ -1,8 +1,8 @@
 def prumer (seznam : list)-> float:
-    soucet=0
+    suma=0
     for i in seznam:
-        soucet=soucet+i
-    vysledek=soucet/len(seznam)
+        suma=suma+i
+    vysledek=suma/len(seznam)
     return vysledek 
 
 print(prumer([1,2,3]))
