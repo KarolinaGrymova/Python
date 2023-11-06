@@ -5,4 +5,4 @@ def prumer (seznam : list)-> float:
     vysledek=suma/len(seznam)
     return vysledek 
 
-print(prumer([1,2,3,4,6]))
+print(prumer([1,3,4,6]))
