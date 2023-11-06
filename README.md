@@ -1,4 +1,4 @@
 # Python
 
 znova
-Tady mame nic
+Tady mame zase něco
