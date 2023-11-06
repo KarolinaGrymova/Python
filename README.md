@@ -1,4 +1,4 @@
 # Python
 
 znova
-Tady mame zmenu
+Tady mame nic
