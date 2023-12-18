@@ -1,4 +1,4 @@
-def prumer (seznam : list)-> float:
+def prumer (seznam : list[int])-> float:
     suma=0
     for i in seznam:
         suma=suma+i
