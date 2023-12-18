@@ -29,6 +29,23 @@ mapa : dict[str,str] = {
      "flower" : "kvetina"
 }
 
+class MujKustos(Kustos):
+    def __init__(self) -> None:
+        ...
+
+    def pridej_kartu(self, id_karty: str, jmeno: str, prijmeni: str) -> Optional[Karta]:
+        ...
+
+
+
+
+
+
+
+
+
+
+
 flower_cesky = mapa["flower"]
 print("flower je ceska: " + flower_cesky)
 mapa["bike"] = "motorka"
