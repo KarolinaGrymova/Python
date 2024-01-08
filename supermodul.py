@@ -1,4 +1,4 @@
-ans=0
+"""ans=0
 posledni_vysledek=0
 def plus(cislo1,cislo2: float)->float:
     global posledni_vysledek
@@ -22,4 +22,4 @@ def vrat_pamet():
 def pricti_k_pameti(op: float)->float:
     global ans
     vysledek=op+ans
-    return vysledek
+    return vysledek"""
