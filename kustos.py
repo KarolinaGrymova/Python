@@ -52,6 +52,6 @@ mapa["bike"] = "motorka"
 print("bike je ceska: " + str(mapa["bike"]))
 
 ff = mapa["flowera"]
-ff = mapa.get("flowera")
+#ff = mapa.get("flowera")
 print(ff)
 # print("flower je ceska: " + str(mapa["flower"]))
